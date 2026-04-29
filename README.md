@@ -1,4 +1,63 @@
 # SQL Practice Queries 📊
+# SQL Practice - From Beginner to Mastery
+
+This repository contains my personal solutions to the SQL exercises and challenges from a popular "SQL from Beginner to Mastery" repository.
+
+I downloaded the original repo, went through the questions step-by-step, and wrote my own SQL queries to solve them.
+
+---
+
+### 📌 About This Repository
+
+- **Purpose**: Personal SQL practice and skill-building
+- **Original Repo**: [Link to the original repo you downloaded] *(you can add this later)*
+- **My Solutions**: Clean, well-commented SQL statements for each question
+- **Level**: Beginner → Intermediate → Advanced
+
+---
+
+
+---
+
+### ✅ What I Practiced
+
+- Basic SELECT statements and filtering
+- JOINs (INNER, LEFT, RIGHT, FULL, Self Join)
+- Aggregate functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
+- GROUP BY and HAVING clauses
+- Subqueries and Correlated Subqueries
+- Window Functions (`ROW_NUMBER`, `RANK`, `LAG`, `LEAD`, etc.)
+- Common Table Expressions (CTEs)
+- Temporary Tables
+
+
+---
+
+### 🛠️ Technologies
+- **SQL** (PostgreSQL / MySQL compatible)
+- pgAdmin (you can specify)
+
+---
+### Goals Achieved
+- Strengthened my SQL fundamentals
+- Improved ability to write efficient and readable queries
+- Built confidence solving real-world SQL problems
+- Prepared for SQL interviews and data analysis roles
+---
+### Future Plans
+- Add explanations/comments for complex queries
+- Include query performance analysis
+- Add more advanced challenges (LeetCode-style SQL problems)
+- Create a summary of common SQL patterns learned
+
+
+**Author**
+Benita Adakeja
+Data Analyst | SQL Enthusiast
+
+⭐ If you're also learning SQL, feel free to use my solutions for reference or practice!
+Contributions, suggestions, and improvements are welcome.
+
 
 A comprehensive collection of SQL practice problems covering fundamental to advanced concepts including aggregations, joins, window functions, and CTEs.
 
